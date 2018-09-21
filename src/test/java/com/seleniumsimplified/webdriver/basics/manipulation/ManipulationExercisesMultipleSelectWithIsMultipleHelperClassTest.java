@@ -29,7 +29,7 @@ public class ManipulationExercisesMultipleSelectWithIsMultipleHelperClassTest {
     }
 
     @Test
-    public void selectSupportExpore(){
+    public void selectSupportExplore(){
 
         WebElement multipleSelectElement;
 
